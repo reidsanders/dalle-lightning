@@ -1,4 +1,4 @@
-torch >= 1.6, < 1.9
+torch==1.9
 torchvision
 torchtext
 torchaudio
@@ -6,7 +6,7 @@ torchmetrics
 albumentations
 opencv-python
 pudb
-pytorch-lightning >= 1.3
+pytorch-lightning
 einops
 regex
 g-mlp-pytorch
